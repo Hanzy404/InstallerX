@@ -24,7 +24,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/LeXcZxMoDz9/Installerlex/raw/main/C2.zip")
+        THEME_URL=$(echo -e "https://github.com/Hanzy404/InstallerX/raw/main/C2.zip")
         break
         ;;
       2)
@@ -32,7 +32,7 @@ install_theme() {
         break
         ;;
       3)
-        THEME_URL=$(echo -e "https://github.com/LeXcZxMoDz9/Installerlex/raw/main/C3.zip")
+        THEME_URL=$(echo -e "https://github.com/Hanzy404/InstallerX/raw/main/C3.zip")
         break
         ;; 
       x)
